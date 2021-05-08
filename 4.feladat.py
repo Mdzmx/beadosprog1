@@ -7,4 +7,4 @@ def ugynaz():
 
 
 
-ugynaz()asd
+ugynaz()
