@@ -1,2 +1,2 @@
-teszt = 123
-print(teszt)
+"teszt = 123"
+"print(teszt)"
