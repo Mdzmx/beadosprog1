@@ -17,5 +17,8 @@ for i in range(0,len(lista)):
     else:
         i += 1
 
-print(lista)
-print(lista2)
+print('A(z) {} szóban {} palindróm  van.'.format(a, len(ls2)))
+print('Ezek pedig a következők: {}'.format(ls2))
+
+#('A(z) {} szóban {} palindróm  van.'.format(a, len(ls2)))
+#('Ezek pedig a következők: {}'.format(ls2))
